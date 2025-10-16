@@ -3,7 +3,7 @@
   "version": "4.2.19",
   "slug": "hass-n8n",
   "description": "Self host your n8n instance",
-  "url": "https://github.com/Rbillon59/hass-n8n",
+  "url": "https://github.com/Morzomb/hass-n8n",
   "hassio_api": true,
   "hassio_role": "default",
   "homeassistant_api": true,
@@ -44,7 +44,7 @@
   },
   "apparmor": true,
   "options": {
-    "timezone": "Europe/Berlin",
+    "timezone": "Europe/Paris",
     "env_vars_list": [],
     "cmd_line_args": ""
   },
